@@ -58,32 +58,32 @@ City_ID.
 
 2- dim_cities:
 
-City_ID
-City
-Tier
+City_ID.  
+City.  
+Tier.  
 
 3- fact_survey_responses:
 
-Response_ID
-Respondent_ID
-Consume_frequency
-Consume_time
-Consume_reason
-Heard_before
-Brand_perception
-General_perception
-Tried_before
-Taste_experience
-Reasons_preventing_trying
-Current_brands
-Reasons_for_choosing_brands
-Improvements_desired
-Ingredients_expected
-Health_concerns
-Interest_in_natural_or_organic
-Marketing_channels
-Packaging_preference
-Limited_edition_packaging
-Price_range
-Purchase_location
-Typical_consumption_situations
+Response_ID.  
+Respondent_ID.  
+Consume_frequency.  
+Consume_time.  
+Consume_reason.  
+Heard_before.  
+Brand_perception.  
+General_perception.  
+Tried_before.  
+Taste_experience.  
+Reasons_preventing_trying.  
+Current_brands.  
+Reasons_for_choosing_brands.  
+Improvements_desired.  
+Ingredients_expected.  
+Health_concerns.  
+Interest_in_natural_or_organic.  
+Marketing_channels.  
+Packaging_preference.  
+Limited_edition_packaging.  
+Price_range.  
+Purchase_location.  
+Typical_consumption_situations.  
