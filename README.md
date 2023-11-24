@@ -3,9 +3,11 @@
 This project is part of the Codebasics Resume Project Challenge conducted by Codebasics. The challenge involves analyzing survey data from an imaginary German beverage company, CodeX, which recently launched its energy drink in India. The company conducted a survey in 10 cities and received responses from 10,000 participants. The goal is to extract meaningful insights and provide recommendations to CodeX's Marketing Team based on the survey results.
 
 ![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/80e2ec4e-4802-4d08-a21d-65c6ad3d8e16)
+![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/03462a54-4bb1-483d-ae08-86c063dd56e6)
 ![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/095d3672-e37f-46ad-8ae0-c6ddc29c7ba5)
 ![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/f60fc136-2062-4454-9d38-7b4a1fc4edb3)
-![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/71dc980e-5cdd-41f3-8bf7-8f16d813f7af)
+![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/e8f2c5ac-a0b1-42e8-94ab-996ac277075a)
+
 
 ### Objectives
 The primary objectives of this project are as follows:
