@@ -49,24 +49,26 @@ Determine which type of marketing is most effective for reaching the youth (15-3
 
 #### Product Improvement:
 
-Consider enhancing the product by introducing limited edition packaging.
-Add more natural ingredients, reduce sugar content, and introduce additional flavors to cater to diverse consumer preferences.
-Implement strategies to improve positive response rates from consumers.
+Consider enhancing the product by introducing limited edition packaging.  
+Add more natural ingredients, reduce sugar content, and introduce additional flavors to cater to diverse consumer preferences.  
+Implement strategies to improve positive response rates from consumers.  
 
 #### Pricing Strategy:
 
-Set the ideal price range for the product between 50 to 150, aligning with consumer expectations.
-Marketing Campaigns and Offers:
+Set the ideal price range for the product between 50 to 150, aligning with consumer expectations.  
 
-Introduce cost-effective bundle offers, such as discounts on purchasing a pack of 6 cans.
-Leverage the festive seasons in each city by creating gift set packs and running targeted marketing campaigns during these celebrations.
+#### Marketing Campaigns and Offers:
+
+Introduce cost-effective bundle offers, such as discounts on purchasing a pack of 6 cans.  
+Leverage the festive seasons in each city by creating gift set packs and running targeted marketing campaigns during these celebrations.  
 
 #### Brand Ambassador Selection:
 
-Consider a brand ambassador who is a sportsperson, athlete, or engages in physical activities, resonating with the active and energetic image of energy drink consumers.
-Target Audience Focus:
+Consider a brand ambassador who is a sportsperson, athlete, or engages in physical activities, resonating with the active and energetic image of energy drink consumers.  
 
-Concentrate marketing efforts on the age group of 15 to 30, as this demographic constitutes a significant portion of the consumer base.
+#### Target Audience Focus:
+
+Concentrate marketing efforts on the age group of 15 to 30, as this demographic constitutes a significant portion of the consumer base.  
   
 ### Dataset Information
 The dataset provided by Codebasics includes three CSV files:
