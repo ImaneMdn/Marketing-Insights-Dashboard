@@ -50,11 +50,11 @@ The dataset provided by Codebasics includes three CSV files:
 
 1- dim_respondents:
 
-Respondent_ID
-Name
-Age_Group
-Gender
-City_ID
+Respondent_ID.  
+Name.  
+Age_Group.  
+Gender.  
+City_ID.  
 
 2- dim_cities:
 
