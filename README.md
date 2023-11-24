@@ -5,7 +5,6 @@ This project is part of the Codebasics Resume Project Challenge conducted by Cod
 ![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/80e2ec4e-4802-4d08-a21d-65c6ad3d8e16)
 ![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/095d3672-e37f-46ad-8ae0-c6ddc29c7ba5)
 ![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/f60fc136-2062-4454-9d38-7b4a1fc4edb3)
-![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/88059217-de4b-4405-843c-c6c0f7bc045e)
 ![image](https://github.com/ImaneMdn/Marketing-Insights-Dashboard/assets/115882702/71dc980e-5cdd-41f3-8bf7-8f16d813f7af)
 
 ### Objectives
